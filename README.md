@@ -1,5 +1,9 @@
 🖼️ Text-to-Image Diffusion Model (DDPM)
 
+
+https://github.com/user-attachments/assets/d5c9e32f-a672-45a5-9276-4566035e135a == results
+
+
 This project implements a Denoising Diffusion Probabilistic Model (DDPM) with text conditioning, built entirely using TensorFlow and Keras. This architecture is inspired by modern generative models and is capable of generating high-quality images conditioned on semantic input (labels or short phrases).
 
 🚀 Key Features
